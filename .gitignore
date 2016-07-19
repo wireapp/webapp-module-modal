@@ -1,0 +1,10 @@
+.DS_Store
+.grunt
+_SpecRunner.html
+node_modules
+temp
+test/js
+bower_components
+.idea
+/nbproject/
+/Gruntfile.js
