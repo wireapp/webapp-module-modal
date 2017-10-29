@@ -19,7 +19,7 @@
     "dist/style/"
   ],
   "license": "GPL-3.0",
-  "name": "@wireapp/jquery-modal",
+  "name": "webapp-module-modal",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wireapp/webapp-module-modal.git"
@@ -27,5 +27,5 @@
   "scripts": {
     "start": "bower install && grunt"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

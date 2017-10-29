@@ -27,6 +27,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/wireapp/webapp-module-modal"
-  },
-  "private": true
+  }
 }
