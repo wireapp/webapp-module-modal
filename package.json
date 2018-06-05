@@ -25,7 +25,9 @@
     "url": "git+https://github.com/wireapp/webapp-module-modal.git"
   },
   "scripts": {
-    "start": "bower install && grunt"
+	"dist": "grunt dist",
+    "start": "bower install && grunt",
+	"test": "grunt test"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
